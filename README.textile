@@ -1,1 +1,1 @@
-Code zur zweiten Auflage des "WordPress-Buches":http://wordpress-buch.bueltge.de/
+Code zur zweiten Auflage des "WordPress-Buches": http://wordpress-buch.bueltge.de/
